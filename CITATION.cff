@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "编码约束论（注意力预算下的内容编码与传载）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-10-20
+license: CC-BY-NC-4.0
+repository-code: "https://gitee.com/mofahuizhang/ABCK"
+keywords:
+  - 内容编码
+  - 载体分立
+  - 编码经济性
+  - 解码预算
+  - 可传之形
